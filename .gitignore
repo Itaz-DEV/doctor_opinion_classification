@@ -1,0 +1,7 @@
+dataset/
+data/
+venv/
+.idea/
+*.png
+*.pptx
+.env
